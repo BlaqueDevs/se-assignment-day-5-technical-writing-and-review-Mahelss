@@ -58,4 +58,13 @@ REGULAR FOLKS- Focus on the benefits and use simplified language
 2. use keywords
 3. use consistent formatting.
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
+1. product name and version
+2. purpose and functinality
+3. target audience
+4. installation instructions
+   
 ## 12. How can you succinctly convey the purpose and key features of a product?
+1. use bullet points
+2. highlight benefits
+3. avoid technical jargon
+4. use straight forward action words
